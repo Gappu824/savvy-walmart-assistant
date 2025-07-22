@@ -6,6 +6,10 @@ Integrated into the Walmart shopping ecosystem, it uses your pantry,
 taste profile, and intelligent parsing to recommend meals, minimize food
 waste, and auto-fill shopping lists.
 
+https://github.com/user-attachments/assets/f564a863-3938-4c89-bff2-486d47416dbd
+
+
+
 ------------------------------------------------------------------------
 
 ## 🧠 Problem Statement
